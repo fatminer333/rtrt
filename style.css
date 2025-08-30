@@ -1,0 +1,18 @@
+body{
+        background: black
+}
+.container {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.sviet {
+    width: 500px;
+    border-radius: 20%;
+}
+.sviet:hover {
+    cursor: pointer;
+}
