@@ -10,9 +10,10 @@ body{
 }
 
 .sviet {
-    width: 500px;
+    width: 50%;
     border-radius: 20%;
 }
 .sviet:hover {
     cursor: pointer;
 }
+
